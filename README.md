@@ -18,17 +18,15 @@ I will also provide some tips and tricks that I have learned in my time.
 
 <br/>
 
-### What is FullStack Web Development?
+## How to use this Repository?
 
-A full stack web developer is a person who can develop both client and server software.
-
-### What is a Frontend Developer?
-
-A front-end web developer is responsible for implementing visual elements that users see and interact with in a web application.
-
-### What is a Backend Developer?
-
-A back-end developer is a type of computer programmer who creates the logical back-end and core computational logic of a website, software or information system.
+1) Fork this repository to your account.
+2) clone this repository to your local machine.
+3) Start by Reading all the material provided to you in the [contents](#contents) section 
+4) Add a ✅ mark to the material you have completed in the [contents](#contents) section
+5) You will be provided with atleast 1 project to complete at the end of each section.
+6) once you have completed the project, add a ✅ mark to the project in the [contents](#contents) section
+7) You will have mastered web development once you have completed all the sections.
 
 </details>
 
@@ -37,12 +35,13 @@ A back-end developer is a type of computer programmer who creates the logical ba
 # Contents
 
 ### _Beginner Stage_ -
-- [Prerequisites](./Beginners/prerequisites.md)
-- [Understanding HTML](./Beginners/uhtml.md)
-- [CSS Fundamentals](./Beginners/css.md)
-- [Building a Static Page and Deploying to Github   ](./Beginners/static.md)
-- [Javascript Reference](./Beginners/js.md)
-- [Building a Dynamic Page and Deploying to Github](./Beginners/dynamic.md)
+- {❌} [Prerequisites](./Beginners/prerequisites.md)
+- {❌} [Understanding HTML](./Beginners/uhtml.md)
+- {❌} [CSS Fundamentals](./Beginners/css.md)
+- {❌} [Javascript Reference](./Beginners/js.md)
+#### Projects -
+- {❌} [Building a Static Page and Deploying to Github](./Beginners/static.md)
+- {❌} [Building a Dynamic Page and Deploying to Github](./Beginners/dynamic.md)
 
 ### _Intermediate Stage_ -
 
