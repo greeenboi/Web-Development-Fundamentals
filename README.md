@@ -8,23 +8,25 @@ _Skip to [Contents](#contents) for the training material_
 <details id=0 open>
 <summary><h1>Introduction</h1></summary>
 
-## What is Web Development?
+## What can I expect from this repository 🤔?
 
-Web development is the work involved in developing a Web site for the Internet .
+I will provide guidance and resources and step-by-step projects that you can follow to learn web development.
+<br/><br/>
+I will also introduce you to the tools and technologies that are used in the industry and how to use them.
+<br/><br/>
+I will also provide some tips and tricks that I have learned in my time.
 
-## What is a Web Developer?
+<br/>
 
-A web developer is a programmer who specializes in, or is specifically engaged in, the development of World Wide Web applications using a client–server model.
-
-## What is FullStack Web Development?
+### What is FullStack Web Development?
 
 A full stack web developer is a person who can develop both client and server software.
 
-## What is a Frontend Developer?
+### What is a Frontend Developer?
 
 A front-end web developer is responsible for implementing visual elements that users see and interact with in a web application.
 
-## What is a Backend Developer?
+### What is a Backend Developer?
 
 A back-end developer is a type of computer programmer who creates the logical back-end and core computational logic of a website, software or information system.
 
