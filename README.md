@@ -21,7 +21,7 @@ I will also provide some tips and tricks that I have learned in my time.
 ## How to use this Repository?
 
 1) Fork this repository to your account.
-2) Clone this repository to your local machine.
+2) Clone this repository to your local machine.(optional)
 3) Start by Reading all the material provided to you in the [contents](#contents) section 
 4) Add a ✅ mark to the material you have completed in the [contents](#contents) section
 5) You will be provided with atleast 1 project to complete at the end of each section.
