@@ -125,3 +125,9 @@ For your reference :
 </details>
 
 
+# References you may need
+
+- [freecodecamp](https://www.freecodecamp.org/news/html-crash-course/)
+- [html handbook](https://www.freecodecamp.org/news/the-html-handbook/)
+
+- [Bro Code's Introdution](https://www.youtube.com/watch?v=HD13eq_Pmp8&pp=ygUSaHRtbCBmb3IgYmVnaW5uZXJz)
